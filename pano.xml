@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node5" appversion="7.0.11" apprev="20034">
+  <panorama id="node5">
+    <input levelingpitch="0" levelbiashidpi="1.000" overlap="1" levelingroll="0" width="1024" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" height="1024">
+      <level width="1024" predecode="0" preload="0" height="1024"/>
+      <level width="512" predecode="0" preload="0" height="512"/>
+      <level width="256" predecode="1" preload="1" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" tilt="-1.03" pan="83.03" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fovstereographic="330" fov="140" scaletofit="1" tilt="90" pan="360"/>
+    </view>
+    <userdata source="" author="" description="" nodeid="node5" tags="28052020 1004 AM - 360_photo_video" info="" longitude="" title="" copyright="" datetime="" latitude="" heading="0" comment="" customnodeid=""/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label background="1" enabled="1" backgroundalpha="1" borderradius="1" border="1" textcolor="0x000000" textalpha="1" width="180" bordercolor="0x000000" borderalpha="1" wordwrap="1" backgroundcolor="0xffffff" height="20"/>
+      <polystyle mode="0" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" skinid="ht_node" url="{node4}" title="" description="" tilt="-4.39" target="127.4/-90.0/100.0" pan="-304.41"/>
+      <hotspot id="Point02" skinid="ht_node" url="{node1}" title="Some info" description="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>test &lt;strong>test &lt;em>test&lt;/em>&lt;/strong>&lt;/p>&#xa;&lt;div>" tilt="1.55" target="$fwd" pan="-105.22"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" enabled="1" zoomspeed="2" delay="none" softedge="0" zoomin="0" blendtime="1" zoomout="0" blendcolor="0x000000" zoomfov="40" zoomafteroutfov="40" zoomafterinfov="140" zoomoutpause="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control lockedkeyboard="0" hideabout="0" sensitivity="8" rubberband="0" simulatemass="1" zoomcentercursor="1" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" lockedwheel="0" speedwheel="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" contextprojections="0" invertcontrol="1"/>
+    <vr toggleskinbutton="1"/>
+  </panorama>
+  <panorama id="node1">
+    <input levelingpitch="0" levelbiashidpi="1.000" overlap="1" levelingroll="0" width="1024" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" height="1024">
+      <level width="1024" predecode="0" preload="0" height="1024"/>
+      <level width="512" predecode="0" preload="0" height="512"/>
+      <level width="256" predecode="1" preload="1" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fovstereographic="330" fov="140" scaletofit="1" tilt="90" pan="360"/>
+    </view>
+    <userdata source="" author="" description="" nodeid="node1" tags="28052020 1004 AM - 360_photo_video" info="" longitude="" title="" copyright="" datetime="" latitude="" heading="0" comment="" customnodeid=""/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label background="1" enabled="1" backgroundalpha="1" borderradius="1" border="1" textcolor="0x000000" textalpha="1" width="180" bordercolor="0x000000" borderalpha="1" wordwrap="1" backgroundcolor="0xffffff" height="20"/>
+      <polystyle mode="0" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" skinid="ht_node" url="{node5}" title="" description="" tilt="-3.91" target="" pan="-122.89"/>
+    </hotspots>
+    <media>
+      <video loop="1" rotz="-3.356" stretch="1.044" fov="16.465" popbackmode="0" field="90.000" mode="1" id="Element01" level="1.000" roty="14.278" ambientlevel="0.000" width="960" nodechangekeep="0" hidepinned="0" pan="4.690" tilt="17.588" pansize="10.000" rotx="4.195" startmutedmobile="0" handcursor="0" clickmode="0" height="540" tiltsize="10.000">
+        <source url="media/TAFE Queensland Immersive Technologies - Virtual Business College_ Immersive Learning Content with TALESPIN_default_d874bf97.mp4"/>
+      </video>
+    </media>
+    <transition type="crossdissolve" enabled="1" zoomspeed="2" delay="none" softedge="0" zoomin="0" blendtime="1" zoomout="0" blendcolor="0x000000" zoomfov="40" zoomafteroutfov="40" zoomafterinfov="140" zoomoutpause="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control lockedkeyboard="0" hideabout="0" sensitivity="8" rubberband="0" simulatemass="1" zoomcentercursor="1" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" lockedwheel="0" speedwheel="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" contextprojections="0" invertcontrol="1"/>
+    <vr toggleskinbutton="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelingpitch="0" levelbiashidpi="1.000" overlap="1" levelingroll="0" width="1024" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" height="1024">
+      <level width="1024" predecode="0" preload="0" height="1024"/>
+      <level width="512" predecode="0" preload="0" height="512"/>
+      <level width="256" predecode="1" preload="1" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" tilt="0" pan="0" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-57.531" pan="-180"/>
+      <max fovfisheye="360" fovstereographic="330" fov="140" tilt="57.531" pan="180"/>
+    </view>
+    <userdata source="" author="" description="" nodeid="node2" tags="28052020 1004 AM - 360_photo_video" info="" longitude="" title="" copyright="" datetime="" latitude="" heading="0" comment="" customnodeid=""/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label background="1" enabled="1" backgroundalpha="1" borderradius="1" border="1" textcolor="0x000000" textalpha="1" width="180" bordercolor="0x000000" borderalpha="1" wordwrap="1" backgroundcolor="0xffffff" height="20"/>
+      <polystyle mode="0" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" enabled="1" zoomspeed="2" delay="none" softedge="0" zoomin="0" blendtime="1" zoomout="0" blendcolor="0x000000" zoomfov="40" zoomafteroutfov="40" zoomafterinfov="140" zoomoutpause="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control lockedkeyboard="0" hideabout="0" sensitivity="8" rubberband="0" simulatemass="1" zoomcentercursor="1" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" lockedwheel="0" speedwheel="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" contextprojections="0" invertcontrol="1"/>
+    <vr toggleskinbutton="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelingpitch="0" levelbiashidpi="1.000" overlap="1" levelingroll="0" width="1024" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" leveltilesize="510" height="1024">
+      <level width="1024" predecode="0" preload="0" height="1024"/>
+      <level width="512" predecode="0" preload="0" height="512"/>
+      <level width="256" predecode="1" preload="1" height="256"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" tilt="-1.69" pan="-34.39" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fovstereographic="330" fov="140" scaletofit="1" tilt="90" pan="360"/>
+    </view>
+    <userdata source="" author="" description="" nodeid="node4" tags="28052020 1004 AM - 360_photo_video" info="" longitude="" title="" copyright="" datetime="" latitude="" heading="0" comment="" customnodeid=""/>
+    <hotspots smoothmovement="0" width="180" wordwrap="1" height="20">
+      <label background="1" enabled="1" backgroundalpha="1" borderradius="1" border="1" textcolor="0x000000" textalpha="1" width="180" bordercolor="0x000000" borderalpha="1" wordwrap="1" backgroundcolor="0xffffff" height="20"/>
+      <polystyle mode="0" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" skinid="ht_node" url="{node5}" title="" description="" tilt="1.31" target="" pan="-25.53"/>
+    </hotspots>
+    <media>
+      <video loop="1" rotz="-2.291" stretch="0.939" fov="7.170" popbackmode="1" field="90.000" mode="1" id="Element01" level="1.000" roty="24.309" ambientlevel="0.000" width="960" nodechangekeep="0" hidepinned="0" pan="-74.572" tilt="1.430" pansize="10.000" rotx="0.692" startmutedmobile="0" handcursor="0" clickmode="4" height="540" tiltsize="10.000">
+        <source url="media/OCAO-immersive-tech-roundup-2023_default.mp4"/>
+      </video>
+      <lensflare alpha="80.000" type="6" id="Lensflare14" color="0xffffff" blinding="50.000" tilt="29.320" pan="-28.210"/>
+    </media>
+    <transition type="crossdissolve" enabled="1" zoomspeed="2" delay="none" softedge="0" zoomin="0" blendtime="1" zoomout="0" blendcolor="0x000000" zoomfov="40" zoomafteroutfov="40" zoomafterinfov="140" zoomoutpause="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control lockedkeyboard="0" hideabout="0" sensitivity="8" rubberband="0" simulatemass="1" zoomcentercursor="1" lockedkeyboardzoom="0" invertwheel="0" lockedmouse="0" lockedwheel="0" speedwheel="1" contextvr="1" contextfullscreen="1" dblclickfullscreen="0" contextprojections="0" invertcontrol="1"/>
+    <vr toggleskinbutton="1"/>
+  </panorama>
+  <masternode>
+    <userdata author="" tags="" title="" copyright="" description="" comment=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
